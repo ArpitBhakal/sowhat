@@ -16,7 +16,7 @@ const page = () => {
   return (
     <>
     <Uppertitle/>
-    {/* <Navbar/> */}
+    <Navbar/>
     <Content/>
     <Firstinfo/>
     <Secondinfo/>
@@ -24,7 +24,7 @@ const page = () => {
     <Fourthinfo/>
     <Chart/>
     <Fiveinfo/>
-    {/* <Footer/>  */}
+    <Footer/> 
     </>
   )
 }
